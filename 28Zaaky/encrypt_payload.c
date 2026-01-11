@@ -1,24 +1,24 @@
 /*
  *
  * PAYLOAD ENCRYPTION TOOL
- * 
+ *
  * Author: 28Zaakypro@proton.me
- * 
+ *
  * This tool encrypts a shellcode file using AES-256-CBC encryption.
  * It generates random key and IV, then outputs:
  *   1. Encrypted shellcode as C array
  *   2. Key as C array
  *   3. IV as C array
- * 
+ *
  * COMPILATION:
  * gcc encrypt_payload.c ../modules/crypto.c -o encrypt_payload.exe -lAdvapi32
- * 
+ *
  * USAGE:
  * encrypt_payload.exe <input_file>
- * 
+ *
  * Example:
  * encrypt_payload.exe ../payload/shellcode.bin
- * 
+ *
  */
 
 #include "crypto.h"
