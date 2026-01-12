@@ -16,7 +16,7 @@ The project provides a simple and reliable way to encrypt binary payloads using 
 ## Build & Usage
 
 ```bash
-gcc encrypt_payload.c modules/crypto.c -o encrypt_payload.exe -lAdvapi32
+gcc encrypt_payload.c Tool/crypto.c -o encrypt_payload.exe -lAdvapi32
 ```
 
 ```bash

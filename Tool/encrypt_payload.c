@@ -11,7 +11,7 @@
  *   3. IV as C array
  *
  * COMPILATION:
- * gcc encrypt_payload.c ../modules/crypto.c -o encrypt_payload.exe -lAdvapi32
+ * gcc encrypt_payload.c crypto.c -o encrypt_payload.exe -lAdvapi32
  *
  * USAGE:
  * encrypt_payload.exe <input_file>
