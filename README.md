@@ -3,6 +3,7 @@
 A small Windows utility that encrypts raw shellcode using AES-256-CBC.
 
 The project provides a simple and reliable way to encrypt binary payloads using native Windows cryptographic APIs. It reads a raw shellcode file, generates a random AES key and initialization vector, encrypts the data, and exports the result in formats that can be directly reused in C source code. The implementation focuses on clarity, correctness, and ease of use, without adding unnecessary complexity.
+
 ---
 
 ## Features
