@@ -1,13 +1,8 @@
 # AES Shellcode Payload Encryptor
 
-A small Windows utility that encrypts raw shellcode using **AES-256-CBC**.  
-It is designed to be used as a preprocessing step before embedding shellcode into a custom loader.
+A small Windows utility that encrypts raw shellcode using AES-256-CBC.
 
-## Overview
-
-This tool takes a raw shellcode file, generates a random AES key and IV, encrypts the payload, and outputs the encrypted data in formats that can be directly reused in C source code.
-The focus is on simplicity and reliability, relying on native Windows CryptoAPI functions. 
-
+The project provides a simple and reliable way to encrypt binary payloads using native Windows cryptographic APIs. It reads a raw shellcode file, generates a random AES key and initialization vector, encrypts the data, and exports the result in formats that can be directly reused in C source code. The implementation focuses on clarity, correctness, and ease of use, without adding unnecessary complexity.
 ---
 
 ## Features
